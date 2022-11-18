@@ -1,1 +1,2 @@
-Trying Jenkins updates!!
+#!/bin/bash
+echo Trying Jenkins updates!!
